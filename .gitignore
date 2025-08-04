@@ -140,8 +140,6 @@ data/company_chroma_db/
 data/company_chroma_db/
 
 # JSON data files (keep structure files)
-intent_feedbacks.json
-intent_stats.json
 
 # IDE and editor files
 .vscode/

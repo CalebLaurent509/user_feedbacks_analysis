@@ -1,0 +1,9 @@
+{
+  "DEFAULT_FEEDBACK": [
+    "This is a default feedback message.",
+    "Used for structuring the intent feedbacks."
+  ],
+  "=========================================": [
+    "..."
+  ]
+}
