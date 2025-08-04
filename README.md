@@ -444,7 +444,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Caleb Laurent**
-- Email: laurentcaleb99@gmail.com
+- Email: contact@caleb-dev.info
 - GitHub: [@CalebLaurent509](https://github.com/CalebLaurent509)
 - Project Link: [https://github.com/CalebLaurent509/user_feedbacks_analysis](https://github.com/CalebLaurent509/user_feedbacks_analysis)
 
