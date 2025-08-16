@@ -330,7 +330,7 @@ class MeaningEngine:
             if text in self.intent_feedbacks:
                 del self.intent_feedbacks[text]
                 save_intent_feedbacks(intent_feedbacks=self.intent_feedbacks)
-        """
+                
         query_embedding = self.encoder.encode(text, convert_to_tensor=True, normalize_embeddings=True)
         scores = util.pytorch_cos_sim(query_embedding, self.intent_embeddings)[0]
         top_results = torch.topk(scores, k=top_k)
